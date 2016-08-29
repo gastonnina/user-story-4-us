@@ -1,0 +1,10 @@
+/*b{    
+    color:greenyellow;
+}*/
+h2{
+    color:greenyellow;
+}
+.reveal section img{
+    border: none !important;
+    box-shadow: none !important;
+}
